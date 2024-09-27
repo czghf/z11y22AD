@@ -179,7 +179,7 @@
 ||*-global.coolccloud.com
 @@||statics.123pan.com^$important
 ||*.cnzz.com^
-@@||self.events.data.microsoft.com^$important
+||self.events.data.microsoft.com^$important
 @@||functional.events.data.microsoft.com^$important
 @@||anti-ad.net^$important
 @@||www.12377.cn^$important
