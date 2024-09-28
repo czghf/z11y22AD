@@ -19,7 +19,6 @@
 @@||id6.me^
 @@||open.e.189.cn^
 @@||api.ad.xiaomi.com^
-#@@||tracking.miui.com^
 @@||get.sogou.com^
 ||pangolin-sdk-toutiao.com^
 ||zijieapi.com^$app=com.dragon.read
