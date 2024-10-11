@@ -155,11 +155,8 @@
 ||*.douyinpic.com^$important
 ||*.ecombdimg.com^$important
 ||api5-normal-sinfonlinea.fqnovel.com^$important
-#||*.fqnovelpic.com^$important
-#||*.fqnovel*.com^$important
 ||*.ecombd*.com^$important
 ||ecom3-normal-lq.ecombdapi.com^$important
-||*.fqnovel.com^$important
 @@||log-upload.mihoyo.com^$important
 @@||www.googletagmanager.com^$important
 @@||cf.aliyun.com^$important
@@ -235,7 +232,7 @@
 #@@||*-*.douyincdn.com^
 #||*.douyinliving.com^$important
 ||dig.bdurl.net^$important
-||lf3-reading.fqnovelpic.com^$important
+#||lf3-reading.fqnovelpic.com^$important
 ||whoami.akamai.net^$important
 ||opencloud.wostore.cn^$important
 ||zijieapi.com^$important
