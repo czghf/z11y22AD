@@ -231,7 +231,7 @@
 ||jinritemai.com^$important
 ||bytedcdn.com^$important
 ||content-autofill.googleapis.com^$important
-||*.*byte*.*^
+#||*.*byte*.*^
 #@@||*-*.douyincdn.com^
 #||*.douyinliving.com^$important
 ||dig.bdurl.net^$important
