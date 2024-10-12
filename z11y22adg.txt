@@ -235,12 +235,12 @@
 #||lf3-reading.fqnovelpic.com^$important
 ||whoami.akamai.net^$important
 ||opencloud.wostore.cn^$important
-||zijieapi.com^$important
-||ixigua.com^$important
+#||zijieapi.com^$important
+#||ixigua.com^$important
 #||flive.douyincdn.com^$important
 #||pull-rtmp-*.douyincdn.com^$important
-||rtmpvcloud.ks-cdn.com^$important
-||fqnovelstatic.com^$important
+#||rtmpvcloud.ks-cdn.com^$important
+#||fqnovelstatic.com^$important
 #||pull-flv-*.douyincdn.com^$important
 @@||so.toutiao.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
