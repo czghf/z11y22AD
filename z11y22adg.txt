@@ -1,6 +1,5 @@
 ||e.qq.com^
 ||pangolin-sdk-toutiao.com^
-@@||api.ad.xiaomi.com^
 ||tracking.miui.com^
 @@||config.cmpassport.com^
 @@||www.cmpassport.com^
@@ -18,7 +17,6 @@
 @@||enrichgw.10010.com^
 @@||id6.me^
 @@||open.e.189.cn^
-@@||api.ad.xiaomi.com^
 @@||get.sogou.com^
 ||pangolin-sdk-toutiao.com^
 ||zijieapi.com^$app=com.dragon.read
