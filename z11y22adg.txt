@@ -243,3 +243,15 @@
 @@||so.toutiao.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
 @@||download.uc.cn^$important
+||copilot.microsoft.com^$important
+||*.ecombd*.com^$important
+||video*.pddugc.com^$important
+||live*-adapt.pddpic.com^$important
+||live-adapt.pddpic.com^$important
+||liveplay*.pddpic.com^$important
+||supl.bd-caict.com^$important
+||th.pinduoduo.com^$important
+||video*-*.pddpic.com^$important
+||video3.pddpic.com^
+||toblog.ctobsnssdk.com^$important
+||tnc3-bjlgy.zijieapi.com^$important
