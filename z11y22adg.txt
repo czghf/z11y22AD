@@ -18,7 +18,6 @@
 @@||id6.me^
 @@||open.e.189.cn^
 @@||get.sogou.com^
-||pangolin-sdk-toutiao.com^
 ||zijieapi.com^$app=com.dragon.read
 ||log-api.pangolin-sdk-toutiao-b.com^$app=com.dragon.read
 ||security.snssdk.com^$app=com.dragon.read
@@ -68,7 +67,6 @@
 #酷安
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pglstatp-toutiao.com^
 ||dm.toutiao.com^
@@ -86,10 +84,6 @@
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ! 去除首页还有什么值得买推广
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-||ctobsnssdk.com^
-||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
-||pangolin-sdk-toutiao-b.com^
 #不知道是知乎的什么↓
 @@||mqtt.zhihu.com^$important
 ||sdk.open.talk.getui.com^
@@ -115,7 +109,6 @@
 /mgsdk-sign.*/
 ||activity-ag.awemeughun.com^$important
 ||msync-im1-vip6-std.easemob.com^$important
-||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 ||sf3-ttcdn-tos.pstatp.com^$important
 ||sf3-fe-tos.pglstatp-toutiao.com^$important
 ||skdisplay.jd.com^$important
@@ -244,7 +237,6 @@
 @@||appdl-1-drcn.dbankcdn.com^$important
 @@||download.uc.cn^$important
 ||copilot.microsoft.com^$important
-||*.ecombd*.com^$important
 ||video*.pddugc.com^$important
 ||live*-adapt.pddpic.com^$important
 ||live-adapt.pddpic.com^$important
