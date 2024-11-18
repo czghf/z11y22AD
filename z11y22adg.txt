@@ -247,3 +247,4 @@
 ||video3.pddpic.com^
 ||toblog.ctobsnssdk.com^$important
 ||tnc3-bjlgy.zijieapi.com^$important
+@@||api.vip.miui.com^
