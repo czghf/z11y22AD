@@ -245,5 +245,4 @@
 ||th.pinduoduo.com^$important
 ||video*-*.pddpic.com^$important
 ||video3.pddpic.com^
-||toblog.ctobsnssdk.com^$important
 @@||api.vip.miui.com^
