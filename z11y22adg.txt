@@ -244,4 +244,16 @@
 ||th.pinduoduo.com^$important
 ||video*-*.pddpic.com^$important
 ||video3.pddpic.com^
+@@||store.assistant.miui.com^
+@@||api.developer.xiaomi.com^
 @@||api.vip.miui.com^
+@@||cdn.exp.xiaomi.com^
+@@||aegis.qq.com^
+@@||grayconfig.ai.xiaomi.com^
+@@||kf-ui.cdn-go.cn^
+@@||mcc.inf.miui.com^
+@@||api.comm.miui.com^
+@@||statusapi.micloud.xiaomi.net^
+@@||galleryapi.micloud.xiaomi.net^
+
+
