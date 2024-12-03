@@ -206,7 +206,6 @@
 ||global-search.browser.miui.com^$important
 ||cdn.browser.miui.com^$important
 ||img1.360buyimg.com^$important
-||grayconfig.ai.xiaomi.com^$important
 #上面的不知道是什么
 ||sdk-tj.img4399.com^$important
 @@||uc-ap.yodo1api.com^$important
