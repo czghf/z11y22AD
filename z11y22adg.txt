@@ -189,7 +189,6 @@
 ||access1.tpns.tencent.com^$important
 ||f.video.weibocdn.com^$important
 ||media.9game.cn^$important
-||m.weibo.cn^$important
 @@||amdc.m.taobao.com^$important
 @@||www.cnblogs.com^$important
 @@||game.eve.mdt.qq.com^$important
