@@ -97,7 +97,6 @@
 @@||wxsnsdythumb.wxs.qq.com^$important
 @@||17u.cn^
 #字节系 AD API SDK 屏蔽
-#/zijieapi.*/
 /byteorge.*/
 /bytegoofy.*/
 /bytedance.*/
@@ -105,7 +104,6 @@
 /pangolin-sdk.*/
 /lf.fqnovel.*/
 /ad-sign.*/
-#/fqnovelvod.*/
 /mgsdk-sign.*/
 ||activity-ag.awemeughun.com^$important
 ||msync-im1-vip6-std.easemob.com^$important
@@ -217,20 +215,9 @@
 ||jinritemai.com^$important
 ||bytedcdn.com^$important
 ||content-autofill.googleapis.com^$important
-#||*.*byte*.*^
-#@@||*-*.douyincdn.com^
-#||*.douyinliving.com^$important
 ||dig.bdurl.net^$important
-#||lf3-reading.fqnovelpic.com^$important
 ||whoami.akamai.net^$important
 ||opencloud.wostore.cn^$important
-#||zijieapi.com^$important
-#||ixigua.com^$important
-#||flive.douyincdn.com^$important
-#||pull-rtmp-*.douyincdn.com^$important
-#||rtmpvcloud.ks-cdn.com^$important
-#||fqnovelstatic.com^$important
-#||pull-flv-*.douyincdn.com^$important
 @@||so.toutiao.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
 @@||download.uc.cn^$important
@@ -254,5 +241,7 @@
 @@||api.comm.miui.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||galleryapi.micloud.xiaomi.net^
-
+||*pcdn*.biliapi.net^$important
+||mcdn.bilivideo.cn^$important
+||szbdyd.com^$important
 
