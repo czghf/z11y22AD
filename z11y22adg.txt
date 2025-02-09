@@ -219,7 +219,6 @@
 ||bytednsdoc.com^$important
 ||jinritemai.com^$important
 ||bytedcdn.com^$important
-||content-autofill.googleapis.com^$important
 ||dig.bdurl.net^$important
 ||whoami.akamai.net^$important
 ||opencloud.wostore.cn^$important
