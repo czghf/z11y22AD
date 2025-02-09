@@ -229,7 +229,6 @@
 ||live*-adapt.pddpic.com^$important
 ||live-adapt.pddpic.com^$important
 ||liveplay*.pddpic.com^$important
-||supl.bd-caict.com^$important
 ||th.pinduoduo.com^$important
 ||video*-*.pddpic.com^$important
 ||video3.pddpic.com^
