@@ -1,1 +1,1 @@
-个人自用Adguard补充规则
+个人自用Adguard补充规则。
