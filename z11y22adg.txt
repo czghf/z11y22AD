@@ -86,9 +86,7 @@
 ! 发现页去除酷品
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
 ! 应用游戏页去除推广视频
-||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
-! 去除首页还有什么值得买推广
-||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ 
 #不知道是知乎的什么↓
 @@||mqtt.zhihu.com^$important
 ||sdk.open.talk.getui.com^
@@ -129,8 +127,7 @@
 @@||hd-preview.browser.miui.com^$important
 @@||preview.security.browser.miui.com^$important
 @@||ms.bdstatic.com^$important
-||webcast-open.douyin.com^$important
-||webcast5-open-lq.douyin.com^$important
+
 ||img14.360buyimg.com^$important
 @@||mdap.alipay.com^$important
 ||mp.weixin.qq.com/mp/getappmsgad^
@@ -138,8 +135,6 @@
 @@||blog.csdn.net^$important
 @@||tracker.ai.xiaomi.com^$important
 ||www.duokan.com^$important
-||*.douyinpic.com^$important
-||*.ecombdimg.com^$important
 ||api5-normal-sinfonlinea.fqnovel.com^$important
 ||*.ecombd*.com^$important
 ||ecom3-normal-lq.ecombdapi.com^$important
@@ -197,21 +192,11 @@
 ||cdn.browser.miui.com^$important
 ||img1.360buyimg.com^$important
 #上面的不知道是什么
-||sdk-tj.img4399.com^$important
-@@||uc-ap.yodo1api.com^$important
 @@||downmobile.kugou.com^$important
 @@||resolver.msg.xiaomi.net^$important
 ||byteurl.cn^$important
 @@||dreport.meituan.net^$important
 @@||dataflow.biliapi.com^$important
-||bytednsdoc.com^$important
-||jinritemai.com^$important
-||bytedcdn.com^$important
-||dig.bdurl.net^$important
-||whoami.akamai.net^$important
-||opencloud.wostore.cn^$important
-@@||so.toutiao.com^$important
-@@||appdl-1-drcn.dbankcdn.com^$important
 @@||download.uc.cn^$important
 ||copilot.microsoft.com^$important
 ||video*.pddugc.com^$important
