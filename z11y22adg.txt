@@ -77,7 +77,8 @@
 ||dm.toutiao.com^
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
-||tnc*.zijieapi.com^
+
+
 ||mssdk-bu.bytedance.com^
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
