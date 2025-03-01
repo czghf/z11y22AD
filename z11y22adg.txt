@@ -102,14 +102,6 @@
 @@||wxsnsdythumb.wxs.qq.com^$important
 @@||17u.cn^
 #字节系 AD API SDK 屏蔽
-/byteorge.*/
-/bytegoofy.*/
-/bytedance.*/
-/snssdk.*/
-/pangolin-sdk.*/
-/lf.fqnovel.*/
-/ad-sign.*/
-/mgsdk-sign.*/
 ||activity-ag.awemeughun.com^$important
 ||msync-im1-vip6-std.easemob.com^$important
 ||sf3-ttcdn-tos.pstatp.com^$important
@@ -168,8 +160,6 @@
 @@||appdownload.alicdn.com^$important
 ||*-global.coolccloud.com
 @@||statics.123pan.com^$important
-||*.cnzz.com^
-||self.events.data.microsoft.com^$important
 @@||functional.events.data.microsoft.com^$important
 @@||anti-ad.net^$important
 @@||www.12377.cn^$important
@@ -187,7 +177,6 @@
 @@||a0.app.xiaomi.com
 ||rmonitor.qq.com^$important
 ||tls-amap.dingtalk.com^$important
-||c.3.1.f.1.c.4.0.3.f.5.e.8.c.7.1.8.e.d.0.3.0.f.f.7.5.4.0.e.0.4.2.ip6.arpa^$important
 ||c.viayoo.com^$important
 ||access1.tpns.tencent.com^$important
 ||f.video.weibocdn.com^$important
