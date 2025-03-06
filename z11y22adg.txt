@@ -33,22 +33,10 @@
 ||dig.bdurl.net^$app=com.dragon.read
 @@||wtradv.market.xiaomi.com^$important
 #↑好像是小米天气的建议
-||metok.sys.miui.com^$important
-@@||hot.browser.miui.com^$important
-||biligame.com^
-||appdl-1-drcn.dbankcdn.com^
-||upos-sz-staticcos.bilivideo.com^
-||dl.hdslb.com^
-||biligame.net^
-||krxd.net^
-@@||d.kugou.com^$important
-@@||mobilelog.kugou.com^$important
 @@||tracker.kugou.com^$important
 @@||trackercdnbj.kugou.com^$important
 @@||nbcollectretry.kugou.com^$important
 @@||nbcollect.kugou.com^$important
-#下面的好像是小米管理器的（不确定）
-||s01.mifile.cn^$important
 ##大数据广告追踪
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
@@ -78,8 +66,6 @@
 ||dm.toutiao.com^
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
-
-
 ||mssdk-bu.bytedance.com^
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
@@ -132,8 +118,6 @@
 
 ||img14.360buyimg.com^$important
 @@||mdap.alipay.com^$important
-||mp.weixin.qq.com/mp/getappmsgad^
-# ↑用于拦截 WeChat 的ads请求，开启后对于 WeChat 的订阅号拦截会相当激进
 @@||blog.csdn.net^$important
 @@||tracker.ai.xiaomi.com^$important
 ||www.duokan.com^$important
@@ -186,7 +170,6 @@
 ||stats.music.xiaomi.com^$important
 ||api.music.xiaomi.com^$important
 ||miscanner.api.xiaomi.net^$important
-@@||upos-sz-staticcos.bilivideo.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||deeplink.umeng.com^$important
 #下面的不知道是什么
@@ -215,11 +198,9 @@
 @@||aegis.qq.com^
 @@||grayconfig.ai.xiaomi.com^
 @@||kf-ui.cdn-go.cn^
-@@||mcc.inf.miui.com^
 @@||api.comm.miui.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||galleryapi.micloud.xiaomi.net^
-||*pcdn*.biliapi.net^$important
 ||mcdn.bilivideo.cn^$important
 ||szbdyd.com^$important
 
