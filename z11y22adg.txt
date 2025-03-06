@@ -32,6 +32,7 @@
 ||log5-applog-lf.fqnovel.com^$app=com.dragon.read
 ||dig.bdurl.net^$app=com.dragon.read
 @@||wtradv.market.xiaomi.com^$important
+#↑好像是小米天气的建议
 ||metok.sys.miui.com^$important
 @@||hot.browser.miui.com^$important
 ||biligame.com^
