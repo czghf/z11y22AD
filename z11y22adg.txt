@@ -183,7 +183,6 @@
 ||video*-*.pddpic.com^$important
 ||video3.pddpic.com^
 @@||store.assistant.miui.com^
-@@||api.developer.xiaomi.com^
 @@||cdn.exp.xiaomi.com^
 @@||aegis.qq.com^
 @@||grayconfig.ai.xiaomi.com^
