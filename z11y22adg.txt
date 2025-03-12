@@ -111,7 +111,6 @@
 ||staging-api.transfer.sec.miui.com^$important
 @@||preview.api.browser.miui.srv^$important
 @@||hd-preview.browser.miui.com^$important
-@@||preview.security.browser.miui.com^$important
 @@||ms.bdstatic.com^$important
 
 ||img*.360buyimg.com^$important
@@ -125,7 +124,6 @@
 @@||www.googletagmanager.com^$important
 @@||cf.aliyun.com^$important
 @@||addons.mozilla.org^$important
-@@||security.browser.miui.com^$important
 @@||frontier.fqnovel.com^$important
 @@||beacons.gvt2.com^$important
 @@||tnc3-bjlgy.zijieapi.com^$important
@@ -142,7 +140,6 @@
 @@||www.12377.cn^$important
 @@||adguardteam.github.io^$important
 @@||pan.quark.cn^$important
-@@||sentry.d.xiaomi.net^$important
 @@||crashlyticsreports-pa.googleapis.com^$important
 @@||firebaselogging.googleapis.com^$important
 @@||clientservices.googleapis.com^$important
