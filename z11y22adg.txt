@@ -4,8 +4,6 @@
 ! Description: 自用（自定义过滤规则）
 
 ||e.qq.com^
-||pangolin-sdk-toutiao.com^
-||tracking.miui.com^
 @@||config.cmpassport.com^
 @@||www.cmpassport.com^
 @@||wap.cmpassport.com^
@@ -116,10 +114,9 @@
 @@||preview.security.browser.miui.com^$important
 @@||ms.bdstatic.com^$important
 
-||img14.360buyimg.com^$important
+||img*.360buyimg.com^$important
 @@||mdap.alipay.com^$important
 @@||blog.csdn.net^$important
-@@||tracker.ai.xiaomi.com^$important
 ||www.duokan.com^$important
 ||api5-normal-sinfonlinea.fqnovel.com^$important
 ||*.ecombd*.com^$important
@@ -128,7 +125,6 @@
 @@||www.googletagmanager.com^$important
 @@||cf.aliyun.com^$important
 @@||addons.mozilla.org^$important
-@@||r.browser.miui.com^$important
 @@||security.browser.miui.com^$important
 @@||frontier.fqnovel.com^$important
 @@||beacons.gvt2.com^$important
@@ -174,8 +170,6 @@
 @@||deeplink.umeng.com^$important
 #下面的不知道是什么
 ||global-search.browser.miui.com^$important
-||cdn.browser.miui.com^$important
-||img1.360buyimg.com^$important
 #上面的不知道是什么
 @@||downmobile.kugou.com^$important
 @@||resolver.msg.xiaomi.net^$important
@@ -193,12 +187,10 @@
 ||video3.pddpic.com^
 @@||store.assistant.miui.com^
 @@||api.developer.xiaomi.com^
-@@||api.vip.miui.com^
 @@||cdn.exp.xiaomi.com^
 @@||aegis.qq.com^
 @@||grayconfig.ai.xiaomi.com^
 @@||kf-ui.cdn-go.cn^
-@@||api.comm.miui.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||galleryapi.micloud.xiaomi.net^
 ||mcdn.bilivideo.cn^$important
