@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/czghf/z11y22AD/
 ! Description: 自用（自定义过滤规则）
 
-||e.qq.com^
 @@||config.cmpassport.com^
 @@||www.cmpassport.com^
 @@||wap.cmpassport.com^
@@ -21,39 +20,25 @@
 @@||id6.me^
 @@||open.e.189.cn^
 @@||get.sogou.com^
-||zijieapi.com^$app=com.dragon.read
-||log-api.pangolin-sdk-toutiao-b.com^$app=com.dragon.read
-||security.snssdk.com^$app=com.dragon.read
-||dig.zjurl.cn^$app=com.dragon.read
-||frontier-toutiao.snssdk.com^$app=com.dragon.read
-||mon11-misc-lf.fqnovel.com^$app=com.dragon.read
-||log5-applog-lf.fqnovel.com^$app=com.dragon.read
-||dig.bdurl.net^$app=com.dragon.read
+||zijieapi.com^
+||frontier-toutiao.snssdk.com^
 @@||wtradv.market.xiaomi.com^$important
 #↑好像是小米天气的建议
 @@||tracker.kugou.com^$important
 @@||trackercdnbj.kugou.com^$important
 @@||nbcollectretry.kugou.com^$important
 @@||nbcollect.kugou.com^$important
+#
 ##大数据广告追踪
-||apd-pcdnwxstat.teg.tencent-cloud.net^
-||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||gd.xinhuanet.com^$important
-||ad7.com^$important
 ||nequal.com^$important
-||n1q.cn^$important
 ||nequal.cn^$important
-||chance-ad.com^$important
 ||zhihuiyun.net.cn^$important
 ||71360.com^$important
-||reyun.com^$important
 ||onemob.mobi^$important
 ||emar.com^$important
-||gozendata.com^$important
-||gzads.com^$important
-||gz-data.com^$important
 ||dwz.cn^
 ||www.estrongs.com^
 #酷安
