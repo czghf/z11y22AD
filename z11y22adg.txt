@@ -50,14 +50,7 @@
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
 ||mssdk-bu.bytedance.com^
-! 帖子详情好物推荐
-||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
-! 帖子详情赞助内容
-||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
-! 发现页去除酷品
-||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
-! 应用游戏页去除推广视频
-||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ 
+
 #不知道是知乎的什么↓
 @@||mqtt.zhihu.com^$important
 ||sdk.open.talk.getui.com^
@@ -98,12 +91,11 @@
 @@||hd-preview.browser.miui.com^$important
 @@||ms.bdstatic.com^$important
 
-||img*.360buyimg.com^$important
 @@||mdap.alipay.com^$important
 @@||blog.csdn.net^$important
 ||www.duokan.com^$important
 ||api5-normal-sinfonlinea.fqnovel.com^$important
-||*.ecombd*.com^$important
+
 ||ecom3-normal-lq.ecombdapi.com^$important
 @@||log-upload.mihoyo.com^$important
 @@||www.googletagmanager.com^$important
@@ -118,7 +110,8 @@
 ||*.pangolin-sdk-toutiao1.com^$important
 ||oth.eve.mdt.qq.com^
 @@||appdownload.alicdn.com^$important
-||*-global.coolccloud.com
+||detaillog-global.coolccloud.com^
+||logreport-global.coolccloud.com^
 @@||statics.123pan.com^$important
 @@||functional.events.data.microsoft.com^$important
 @@||anti-ad.net^$important
