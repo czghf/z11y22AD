@@ -113,7 +113,6 @@
 ||detaillog-global.coolccloud.com^
 ||logreport-global.coolccloud.com^
 @@||statics.123pan.com^$important
-@@||functional.events.data.microsoft.com^$important
 @@||anti-ad.net^$important
 @@||www.12377.cn^$important
 @@||adguardteam.github.io^$important
